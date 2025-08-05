@@ -1,0 +1,195 @@
+﻿@model BanDongHo.Models.Models.Cart
+@{
+    ViewBag.Title = "Checkout";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    <link href="~/Content/css/cart.css" rel="stylesheet" />
+}
+
+
+<!--start-breadcrumbs-->
+<div class="breadcrumbs">
+    <div class="container">
+        <div class="breadcrumbs-main">
+            <ol class="breadcrumb">
+                <li><a href="~/Home/Index">Trang chủ</a></li>
+                <li class="active">Đăng xuất</li>
+            </ol>
+        </div>
+    </div>
+</div>
+<!--end-breadcrumbs-->
+<!--start-ckeckout-->
+<div class="ckeckout">
+    <div class="container">
+        <div class="ckeck-top heading">
+            <img src="~/images/Giohang.gif" height="80px" />
+            <h1>Giỏ hàng</h1>
+        </div>
+    </div>
+
+
+    <div class="cart1">
+        <h3 style="font-family: 'Times New Roman';">Giỏ hàng của tôi (@Model.GetList().Count)</h3>
+        <div class="cart-row">
+            <script type="text/javascript">
+                $(document).ready(function () {
+
+                    // viết ajax ở đây
+
+
+                    $('.delete').click(function () {
+                        var Id = $(this).attr('data-id');
+
+                        // dùng ajax ở đây
+                        $.ajax({
+                            url: 'Cart/DeleteProduct/',
+                            type: 'POST',
+                            dataType: 'html',
+                            data: {
+                                id: Id
+                            }
+                        }).done(function (ketqua) {
+                            $('#tong').html(ketqua);
+                        });
+                        $('#' + Id).fadeOut('slow', function (c) {
+                            $('#' + Id).remove();
+                        });
+
+                    });
+
+                    $('.number').on('change mouseup keyup', function () {
+                        var Id = $(this).attr('data-id');
+                        // dùng ajax ở đây
+                        $.ajax({
+                            url: 'Cart/UpdateProduct/',
+                            type: 'POST',
+                            dataType: 'html',
+                            data: {
+                                id: Id,
+                                sl: $(this).val()
+                            }
+                        }).done(function (ketqua) {
+                            $('#tong').html(ketqua);
+                        });
+                    });
+                });
+            </script>
+            @foreach (var item in Model.GetList())
+            {
+                string data_id = item.Product.MASP.ToString();
+                <div class="item" id="@data_id">
+                    <button class="delete" data-id="@data_id">X</button>
+                    <img src="@Url.Content("~/images/HINHANH/" + item.Product.HINHANH)">
+                    <div class="details">
+                        <h2>@item.Product.TENSP</h2>
+                        <p class="price">@String.Format("{0:0,0}", (item.Product.DONGIA))đ</p>
+                        <label for="quantity1">Số lượng: </label>
+                        <input type="number" id="quantity1" value="@item.Quantity" class="number" data-id="@data_id" min="0" />
+                    </div>
+                </div>
+            }
+        </div>
+        <div><span style="font-size:2em;" id="total">Tổng : @String.Format("{0:0,0}", Model.TotalMoney())</span></div>
+        <a class="btn btn-primary" href="Cart/Checkout/">Thanh toán</a>
+        
+    </div>
+
+
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                margin: 0;
+                padding: 0;
+            }
+
+            .cart1 {
+                width: 80%;
+                margin: auto;
+                padding: 20px;
+                background-color: #fff;
+                margin-top: 20px;
+            }
+
+            h1 {
+                text-align: center;
+                margin-bottom: 20px;
+            }
+
+            .cart-row {
+                display: flex;
+                /*justify-content: space-between;*/
+                flex-wrap: wrap;
+                margin-bottom: 20px;
+            }
+
+            .item {
+                display: flex;
+                align-items: center;
+                border: 1px solid #ccc;
+                padding: 10px;
+                background-color: #fafafa;
+                width: 48%;
+                box-shadow: 1px 1px 6px rgba(0,0,0,0.1);
+                position: relative;
+            }
+
+                .item img {
+                    width: 100px;
+                    height: 150px;
+                    margin-right: 20px;
+                }
+
+            .details {
+                flex: 1;
+            }
+
+                .details h2 {
+                    margin: 0;
+                    font-size: 1.2em;
+                }
+
+                .details p {
+                    margin: 5px 0;
+                }
+
+            .price {
+                color: red;
+            }
+
+            input[type="number"] {
+                width: 50px;
+                margin-left: 10px;
+            }
+
+            button.delete {
+                position: absolute;
+                top: 10px;
+                right: 10px;
+                background: #f44336;
+                color: white;
+                border: none;
+                padding: 5px 10px;
+                cursor: pointer;
+            }
+
+                button.delete:hover {
+                    background: #d32f2f;
+                }
+        </style>
+
+        <script>
+            document.addEventListener('DOMContentLoaded', () => {
+                const removeButtons = document.querySelectorAll('.delete');
+
+                removeButtons.forEach(button => {
+                    button.addEventListener('click', (event) => {
+                        const cartItem = event.target.closest('.item');
+                        cartItem.remove();
+                    });
+                });
+            });
+
+        </script>
+
+</div>
+<!--end-ckeckout-->

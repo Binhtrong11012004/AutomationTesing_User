@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Testing\\\u0110BCL_PM\\TestUser\\Do_An\\CNPM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3F8E30-BE46-4447-A660-BD89E8989637}|BanDongHo\\BanDongHo.csproj|d:\\testing\\\u0111bcl_pm\\testuser\\do_an\\cnpm\\bandongho\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA3F8E30-BE46-4447-A660-BD89E8989637}|BanDongHo\\BanDongHo.csproj|solutionrelative:bandongho\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Testing\\\u0110BCL_PM\\TestUser\\Do_An\\CNPM\\BanDongHo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BanDongHo\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Testing\\\u0110BCL_PM\\TestUser\\Do_An\\CNPM\\BanDongHo\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BanDongHo\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T13:54:53.088Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

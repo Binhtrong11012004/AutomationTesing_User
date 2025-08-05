@@ -1,0 +1,359 @@
+Page source: <html><head>
+    <title>NOVELTY</title>
+    <link href="/Content/css/bootstrap.css" rel="stylesheet" type="text/css" media="all">
+    <link href="/Content/css/jquery-ui.css" rel="stylesheet">
+    <!--jQuery(necessary for Bootstrap's JavaScript plugins)-->
+    <script src="/Scripts/js/jquery-1.11.0.min.js"></script>
+    <script src="/Scripts/js/jquery-ui.js"></script>
+    <!--Custom-Theme-files-->
+    <!--theme-style-->
+    <link href="/Content/css/stylee.css" rel="stylesheet" type="text/css" media="all">
+    <!--//theme-style-->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+    <!--start-menu-->
+    <script src="/Scripts/js/simpleCart.min.js"></script>
+    <link href="/Content/css/memenu.css" rel="stylesheet" type="text/css" media="all">
+    <script type="text/javascript" src="/Scripts/js/memenu.js"></script>
+    <script>$(document).ready(function () { $(".memenu").memenu(); });</script>
+    <!--dropdown-->
+    <script src="/Scripts/js/jquery.easydropdown.js"></script>
+    <link href="/Content/Custom.css" rel="stylesheet" type="text/css" media="all">
+    <!-- Custom CSS for cursor effect -->
+    <link href="/Content/StyleCursor.css" rel="stylesheet" type="text/css">
+</head>
+<body style="">
+    <!--top-header-->
+    <div class="top-header" style="background-color:#2D99AE">
+        <div class="container">
+            <div class="top-header-main">
+                <div class="col-md-6 top-header-left">
+                    <div class="drop">
+
+                        <div class="clearfix"></div>
+                    </div>
+                </div>
+                <div class="col-md-4 userMenu">
+
+
+
+    <div>
+        <span><a href="#">Chào bạn: binhtrong1101</a></span>
+        <span><a href="/Account/Logout">Đăng xuất</a></span>
+        <div class="clearfix"> </div>
+    </div>
+
+                </div>
+                <div class="col-md-2 top-header-left">
+
+
+
+    <div class="cart box_1">
+        <a href="/Cart">
+            <div class="total">
+                <span style="color:#ff6a00"> (1) </span>
+            </div>
+            <img src="/images/cart-1.png" alt="">
+        </a>
+        <p><a href="javascript:;" class="simpleCart_empty">Giỏ hàng</a></p>
+        <div class="clearfix"> </div>
+    </div>
+
+
+                </div>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+    <!--top-header-->
+    <!--bottom-header-->
+    <div class="header-bottom" style="background-color:#0C5776">
+        <div class="container-fluid">
+            <div class="header">
+                <div class="col-md-3 logo">
+                    <a href="/Home/index"><h1>NOVELTY</h1></a>
+                </div>
+                <div class="col-md-7 header-left">
+                    <div class="top-nav">
+                        <ul class="memenu skyblue"><li class="showhide" style="display: none;"><span class="title">MENU</span><span class="icon1"></span><span class="icon2"></span></li>
+                            <li class="" style=""><a href="/Home/index">Trang chủ</a></li>
+                            <li class="grid" style="">
+                                <a href="/san-pham/tat-ca">Sản phẩm</a>
+                            </li>
+                            <li class="grid" style="">
+                                <a href="/OrderHistory/OrderHistory">Lịch sử đơn hàng</a>
+                            </li>
+                            <li class="grid" style="">
+                                <a href="/Home/Contact">Liên hệ</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="clearfix"> </div>
+                </div>
+                <div class="col-md-2 header-right">
+                    <div class="search-bar">
+                        <form action="/tim-kiem" method="get">
+                            <input type="text" value="Tìm kiếm..." name="keyword" id="txtkeyword" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Search';}" class="ui-autocomplete-input" autocomplete="off">
+                            <input type="submit" value="" class="glyphicon-search">
+                        </form>
+                    </div>
+                </div>
+                <div class="clearfix"> </div>
+            </div>
+        </div>
+    </div>
+
+    
+    <link href="/Content/css/cusinffo.css" rel="stylesheet">
+
+<style>
+    body {
+        font-family: Arial, sans-serif;
+    }
+
+    .container {
+        width: 80%;
+        margin: 0 auto;
+    }
+
+    .title {
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    .form-group {
+        margin-bottom: 15px;
+    }
+
+        .form-group label {
+            display: block;
+            margin-bottom: 5px;
+        }
+
+        .form-group input {
+            width: 100%;
+            padding: 10px;
+            box-sizing: border-box;
+        }
+
+    .right {
+        text-align: left;
+    }
+    .text-box {
+        width: calc(100% - 2px);
+        padding: 10px;
+        box-sizing: border-box;
+    }
+
+    .checkout-container {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 20px;
+    }
+
+        .checkout-container .left, .checkout-container .right {
+            width: 48%;
+        }
+
+    .summary-table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+
+        .summary-table th, .summary-table td {
+            border: 1px solid #ddd;
+            padding: 8px;
+        }
+
+        .summary-table th {
+            background-color: #f2f2f2;
+        }
+
+    .total {
+        text-align: right;
+        padding: 10px;
+        color: red;
+        font-weight: bold;
+        font-size: 25px;
+    }
+
+        .total span {
+            color: black;
+        }
+
+    .btn {
+        /*display: block;*/
+        width: 48%;
+        padding: 10px;
+        background-color: #4CAF50;
+        color: white;
+        border: none;
+        cursor: pointer;
+        margin-bottom: 10px;
+        justify-content: center;
+    }
+
+        .btn:hover {
+            background-color: #45a049;
+        }
+
+    /*    .select-box {
+        width: 100%;
+        padding: 10px;
+        box-sizing: border-box;
+    }*/
+</style>
+
+<div class="cus-body">
+    <span class="field-validation-valid validation" data-valmsg-for="Sdt" data-valmsg-replace="true"></span>
+    <form method="post">
+        <div class="row">
+            <div class="">
+                <div class="cus-title"><h1>Chi tiết hóa đơn</h1></div>
+                <table class="summary-table">
+                    <thead>
+                        <tr>
+                            <th>STT </th>
+                            <th>Tên sản phẩm</th>
+                            <th>Đơn giá</th>
+                            <th>Số lượng</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                            <tr>
+                                <td>1</td>
+                                <td>Harry Potter 03</td>
+                                <td>100,000đ</td>
+                                <td>1</td>
+                            </tr>
+                    </tbody>
+                </table>
+                <div class="right">
+                    <p class="total"><span>Tổng tiền:</span> 100,000 VNĐ</p>
+                </div>
+            </div>
+            <div class="">
+                <div class="cus-title">
+                    <h1>Thông tin khách hàng</h1>
+                </div>
+                <input class="text-box" id="DiaChiGiao" name="DiaChiGiao" placeholder="Địa chỉ giao hàng" required="" type="text" value="">
+                <br>
+                <input class="text-box" data-val="true" data-val-regex="*Số điện thoại không hợp lệ" data-val-regex-pattern="^(\d{4,15})$" id="Sdt" name="Sdt" placeholder="Số điện thoại" required="" type="text" value="">
+                <br>
+                <textarea class="text-box" cols="20" id="MoTa" name="MoTa" placeholder="Mô tả" rows="5"></textarea>
+            </div>
+
+        </div>
+        <input type="submit" value="Đặt hàng" class="btn btn-success">
+        <br>
+        <a class="btn btn-primary" href="/Cart/PaymentWithPayPal">Thanh toán bằng paypal</a>
+    </form>
+    
+</div>
+
+
+
+    <!--information-starts-->
+    <div style="background-color: #0C5776; color: aliceblue; padding-top: 10px;">
+        <div class="information">
+            <div class="container">
+                <div class="">
+                    <div class="footer-section logo-section">
+                        <div class="col-md-3 infor-left">
+                            <img src="/images/logo1.png" alt="Novelty Logo" class="logo1">
+                            <p class="verification">ĐÃ THÔNG BÁO BỘ CÔNG THƯƠNG</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3 infor-left">
+                        <div class="footer-section about-section">
+                            <h2>GIỚI THIỆU</h2>
+                            <p>Nhà sách Novelty là điểm đến lý tưởng dành cho những ai đam mê sách và văn hóa đọc. Novelty mang đến một trải nghiệm mua sắm sách hoàn toàn mới lạ và thú vị. Chúng tôi tự hào sở hữu một kho sách phong phú, đa dạng về thể loại, từ văn học, khoa học, nghệ thuật đến sách thiếu nhi và sách ngoại văn.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3 infor-left">
+                        <div class="footer-section support-section">
+                            <h2>HỖ TRỢ</h2>
+                            <ul>
+                                <li>Giới thiệu về Novelty</li>
+                                <li>Chính sách bảo mật</li>
+                                <li>Chính sách đổi trả</li>
+                                <li>Chính sách vận chuyển</li>
+                                <li>Chính sách quy định</li>
+                                <li>Hướng dẫn đặt hàng</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-md-3 infor-left">
+                        <div class="footer-section contact-section">
+                            <h2>THÔNG TIN LIÊN LẠC</h2>
+                            <p>Địa chỉ: 828 đường Sư Vạn Hạnh, Phường 13, Quận 10, Thành phố Hồ Chí Minh</p>
+                            <p>Điện thoại: 0932152301</p>
+                            <p>Email: thiennguyen14062004@gmail.com</p>
+                            <div class="social-media">
+                                <a href="#"><img src="/images/facebook.png" alt="Facebook" style="width:43px;height:43px"></a>
+                                <a href="#"><img src="/images/instagram.png" alt="Instagram" style="width:43px;height:43px"></a>
+                                <a href="#"><img src="/images/youtube.png" alt="YouTube" style="width:43px;height:43px"></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--information-end-->
+        <!--footer-starts-->
+        <div class="footer">
+            <div class="container">
+                <div class="footer-top">
+                    <div class="col-md-6 footer-left">
+
+                    </div>
+                    <div class="col-md-6 footer-right">
+                        <p style="color:aliceblue; right:0;">© 2024 Book Store. Design by  <a href="http://w3layouts.com/" target="_blank" style="color:aliceblue;">web</a> </p>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--footer-end-->
+    <div class="cursor" style="top: 0px; left: 0px;">
+        <!-- Các vòng tròn con trỏ -->
+        <div class="circle" style="background-color: white; left: 747px; top: 483px; scale: 1;"></div>
+        <div class="circle" style="background-color: white; left: 747px; top: 483px; scale: 0.95;"></div>
+        <div class="circle" style="background-color: white; left: 747px; top: 483px; scale: 0.9;"></div>
+        <div class="circle" style="background-color: white; left: 747px; top: 483px; scale: 0.85;"></div>
+        <div class="circle" style="background-color: white; left: 747px; top: 483px; scale: 0.8;"></div>
+        <div class="circle" style="background-color: white; left: 747px; top: 483px; scale: 0.75;"></div>
+        <div class="circle" style="background-color: white; left: 747px; top: 483px; scale: 0.7;"></div>
+        <div class="circle" style="background-color: white; left: 747px; top: 483px; scale: 0.65;"></div>
+        <div class="circle" style="background-color: white; left: 747px; top: 483px; scale: 0.6;"></div>
+        <div class="circle" style="background-color: white; left: 747px; top: 483px; scale: 0.55;"></div>
+        <div class="circle" style="background-color: white; left: 747px; top: 483px; scale: 0.5;"></div>
+        <div class="circle" style="background-color: white; left: 747px; top: 483px; scale: 0.45;"></div>
+        <div class="circle" style="background-color: white; left: 747px; top: 483px; scale: 0.4;"></div>
+        <div class="circle" style="background-color: white; left: 747px; top: 483px; scale: 0.35;"></div>
+        <div class="circle" style="background-color: white; left: 747px; top: 483px; scale: 0.3;"></div>
+        <div class="circle" style="background-color: white; left: 747px; top: 483px; scale: 0.25;"></div>
+        <div class="circle" style="background-color: white; left: 747px; top: 483px; scale: 0.2;"></div>
+        <div class="circle" style="background-color: white; left: 747px; top: 483px; scale: 0.15;"></div>
+        <div class="circle" style="background-color: white; left: 747px; top: 483px; scale: 0.1;"></div>
+        <div class="circle" style="background-color: white; left: 747px; top: 483px; scale: 0.05;"></div>
+    </div>
+
+    <script src="/Scripts/Script.js"></script>
+    <script src="/Scripts/js/baseController.js"></script><ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content" id="ui-id-1" tabindex="0" style="display: none;"></ul><span role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></span>
+
+<!-- Visual Studio Browser Link -->
+<script type="text/javascript" src="http://localhost:50633/2dfb091243774c00ae21dc789e00c5a4/browserLink" async="async" id="__browserLink_initializationData" data-requestid="27e3c3bb2ec34d0da53b07efbb0b3e95" data-appname="Chrome"></script>
+<!-- End Browser Link -->
+
+
+
+
+<style>
+    .logo1 {
+        width: 200px; 
+        height: 170px;
+    }
+</style></body></html>

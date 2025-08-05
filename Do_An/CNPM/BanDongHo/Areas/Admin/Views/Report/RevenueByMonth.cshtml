@@ -1,0 +1,34 @@
+﻿@{
+    ViewBag.Title = "Doanh Thu Theo Tháng";
+    Layout = "~/Areas/Admin/Views/Shared/_layout.cshtml";
+
+    var monthlyRevenue = ViewBag.MonthlyRevenue as Dictionary<int, double>;
+}
+
+<h2>Doanh Thu Theo Tháng</h2>
+<table>
+    <thead>
+        <tr>
+            <th>Tháng</th>
+            <th>Doanh Thu</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (monthlyRevenue != null && monthlyRevenue.Any())
+        {
+            foreach (var item in monthlyRevenue)
+            {
+                <tr>
+                    <td>@item.Key</td>
+                    <td>@item.Value VNĐ</td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="2">Không có dữ liệu</td>
+            </tr>
+        }
+    </tbody>
+</table>

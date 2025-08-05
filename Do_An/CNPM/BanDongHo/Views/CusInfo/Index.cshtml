@@ -1,0 +1,154 @@
+﻿@model BanDongHo.Models.ViewModel.CusInfoViewModel
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    <link href="~/Content/css/cusinffo.css" rel="stylesheet" />
+}
+<style>
+    body {
+        font-family: Arial, sans-serif;
+    }
+
+    .container {
+        width: 80%;
+        margin: 0 auto;
+    }
+
+    .title {
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    .form-group {
+        margin-bottom: 15px;
+    }
+
+        .form-group label {
+            display: block;
+            margin-bottom: 5px;
+        }
+
+        .form-group input {
+            width: 100%;
+            padding: 10px;
+            box-sizing: border-box;
+        }
+
+    .right {
+        text-align: left;
+    }
+    .text-box {
+        width: calc(100% - 2px);
+        padding: 10px;
+        box-sizing: border-box;
+    }
+
+    .checkout-container {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 20px;
+    }
+
+        .checkout-container .left, .checkout-container .right {
+            width: 48%;
+        }
+
+    .summary-table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+
+        .summary-table th, .summary-table td {
+            border: 1px solid #ddd;
+            padding: 8px;
+        }
+
+        .summary-table th {
+            background-color: #f2f2f2;
+        }
+
+    .total {
+        text-align: right;
+        padding: 10px;
+        color: red;
+        font-weight: bold;
+        font-size: 25px;
+    }
+
+        .total span {
+            color: black;
+        }
+
+    .btn {
+        /*display: block;*/
+        width: 48%;
+        padding: 10px;
+        background-color: #4CAF50;
+        color: white;
+        border: none;
+        cursor: pointer;
+        margin-bottom: 10px;
+        justify-content: center;
+    }
+
+        .btn:hover {
+            background-color: #45a049;
+        }
+
+    /*    .select-box {
+        width: 100%;
+        padding: 10px;
+        box-sizing: border-box;
+    }*/
+</style>
+
+<div class="cus-body">
+    @Html.ValidationMessageFor(m => m.Sdt, "", new { @class = "validation" })
+    <form method="post">
+        <div class="row">
+            <div class="">
+                <div class="cus-title"><h1>Chi tiết hóa đơn</h1></div>
+                <table class="summary-table">
+                    <thead>
+                        <tr>
+                            <th>STT </th>
+                            <th>Tên sản phẩm</th>
+                            <th>Đơn giá</th>
+                            <th>Số lượng</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @for (int i = 0; i < Model.cart.GetList().Count; i++)
+                        {
+                            <tr>
+                                <td>@(i+1)</td>
+                                <td>@Model.cart.GetList()[i].Product.TENSP</td>
+                                <td>@((Model.cart.GetList()[i].Product.DONGIA.Value).ToString("0,0"))đ</td>
+                                <td>@Model.cart.GetList()[i].Quantity</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+                <div class="right">
+                    <p class="total"><span>Tổng tiền:</span> @Model.cart.TotalMoney().ToString("0,0") VNĐ</p>
+                </div>
+            </div>
+            <div class="">
+                <div class="cus-title">
+                    <h1>Thông tin khách hàng</h1>
+                </div>
+                @Html.TextBoxFor(m => m.DiaChiGiao, new { placeholder = "Địa chỉ giao hàng", @class = "text-box", required = "" })
+                <br />
+                @Html.TextBoxFor(m => m.Sdt, new { placeholder = "Số điện thoại", @class = "text-box", required = "" })
+                <br />
+                @Html.TextAreaFor(m => m.MoTa, new { rows = "5", placeholder = "Mô tả", @class = "text-box" })
+            </div>
+
+        </div>
+        <input type="submit" value="Đặt hàng" class="btn btn-success" />
+        <br />
+        <a class="btn btn-primary" href="/Cart/PaymentWithPayPal">Thanh toán bằng paypal</a>
+    </form>
+    
+</div>
+

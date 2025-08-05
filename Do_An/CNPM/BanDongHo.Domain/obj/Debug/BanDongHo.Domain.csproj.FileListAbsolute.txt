@@ -1,0 +1,351 @@
+D:\Project\BanDongHosln\BanDongHo.Domain\bin\Debug\BanDongHo.Domain.pdb
+D:\Project\BanDongHosln\BanDongHo.Domain\obj\Debug\BanDongHo.Domain.csprojResolveAssemblyReference.cache
+D:\Project\BanDongHosln\BanDongHo.Domain\obj\Debug\BanDongHo.Domain.pdb
+D:\Project\BanDongHosln\BanDongHo.Domain\bin\Debug\EntityFramework.dll
+D:\Project\BanDongHosln\BanDongHo.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Project\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Helpers.dll
+D:\Project\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Mvc.dll
+D:\Project\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Razor.dll
+D:\Project\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Project\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.dll
+D:\Project\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Project\BanDongHosln\BanDongHo.Domain\bin\Debug\EntityFramework.xml
+D:\Project\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Helpers.xml
+D:\Project\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Mvc.xml
+D:\Project\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Razor.xml
+D:\Project\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.xml
+D:\Project\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Project\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Project\BanDongHosln\BanDongHo.Domain\bin\Debug\BanDongHo.Domain.dll.config
+D:\Project\BanDongHosln\BanDongHo.Domain\bin\Debug\BanDongHo.Domain.dll
+D:\Project\BanDongHosln\BanDongHo.Domain\obj\Debug\BanDongHo.Domain.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\BanDongHo.Domain.dll.config
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\BanDongHo.Domain.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\BanDongHo.Domain.pdb
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\EntityFramework.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Helpers.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Mvc.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Razor.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\EntityFramework.xml
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Helpers.xml
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Mvc.xml
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Razor.xml
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.xml
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\obj\Debug\BanDongHo.Domain.csprojResolveAssemblyReference.cache
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\obj\Debug\BanDongHo.Domain.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\obj\Debug\BanDongHo.Domain.pdb
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo.Domain\bin\Debug\BanDongHo.Domain.dll.config
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo.Domain\bin\Debug\BanDongHo.Domain.dll
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo.Domain\bin\Debug\BanDongHo.Domain.pdb
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo.Domain\bin\Debug\EntityFramework.dll
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo.Domain\bin\Debug\System.Web.Helpers.dll
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo.Domain\bin\Debug\System.Web.Mvc.dll
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo.Domain\bin\Debug\System.Web.Razor.dll
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo.Domain\bin\Debug\System.Web.WebPages.dll
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo.Domain\bin\Debug\EntityFramework.xml
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo.Domain\bin\Debug\System.Web.Helpers.xml
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo.Domain\bin\Debug\System.Web.Mvc.xml
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo.Domain\bin\Debug\System.Web.Razor.xml
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo.Domain\bin\Debug\System.Web.WebPages.xml
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo.Domain\obj\Debug\BanDongHo.Domain.csprojResolveAssemblyReference.cache
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo.Domain\obj\Debug\BanDongHo.Domain.dll
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo.Domain\obj\Debug\BanDongHo.Domain.pdb
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\BanDongHo.Domain.dll.config
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\BanDongHo.Domain.dll
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\BanDongHo.Domain.pdb
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\EntityFramework.dll
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Helpers.dll
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Razor.dll
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.dll
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\EntityFramework.xml
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Helpers.xml
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Razor.xml
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.xml
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\obj\Debug\BanDongHo.Domain.csprojResolveAssemblyReference.cache
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\obj\Debug\BanDongHo.Domain.dll
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\obj\Debug\BanDongHo.Domain.pdb
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\BanDongHo.Domain.dll.config
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\BanDongHo.Domain.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\BanDongHo.Domain.pdb
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\EntityFramework.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Helpers.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Mvc.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Razor.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\EntityFramework.xml
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Helpers.xml
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Mvc.xml
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Razor.xml
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.xml
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\obj\Debug\BanDongHo.Domain.csprojResolveAssemblyReference.cache
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\obj\Debug\BanDongHo.Domain.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\obj\Debug\BanDongHo.Domain.pdb
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\BanDongHo.Domain.dll.config
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\BanDongHo.Domain.dll
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\BanDongHo.Domain.pdb
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\EntityFramework.dll
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Helpers.dll
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Mvc.dll
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Razor.dll
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.dll
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\EntityFramework.xml
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Helpers.xml
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Mvc.xml
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Razor.xml
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.xml
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\obj\Debug\BanDongHo.Domain.csprojResolveAssemblyReference.cache
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\obj\Debug\BanDongHo.Domain.dll
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo.Domain\obj\Debug\BanDongHo.Domain.pdb
+D:\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\BanDongHo.Domain.dll.config
+D:\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\BanDongHo.Domain.dll
+D:\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\BanDongHo.Domain.pdb
+D:\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\EntityFramework.dll
+D:\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Helpers.dll
+D:\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Mvc.dll
+D:\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Razor.dll
+D:\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.dll
+D:\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+D:\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\EntityFramework.xml
+D:\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Helpers.xml
+D:\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Mvc.xml
+D:\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Razor.xml
+D:\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.xml
+D:\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+D:\BanDongHo\BanDongHosln\BanDongHo.Domain\obj\Debug\BanDongHo.Domain.csproj.AssemblyReference.cache
+D:\BanDongHo\BanDongHosln\BanDongHo.Domain\obj\Debug\BanDongHo.Domain.csproj.CoreCompileInputs.cache
+D:\BanDongHo\BanDongHosln\BanDongHo.Domain\obj\Debug\BanDongHo.Domain.csproj.CopyComplete
+D:\BanDongHo\BanDongHosln\BanDongHo.Domain\obj\Debug\BanDongHo.Domain.dll
+D:\BanDongHo\BanDongHosln\BanDongHo.Domain\obj\Debug\BanDongHo.Domain.pdb
+C:\Users\trien\OneDrive\Desktop\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\BanDongHo.Domain.dll.config
+C:\Users\trien\OneDrive\Desktop\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\BanDongHo.Domain.dll
+C:\Users\trien\OneDrive\Desktop\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\BanDongHo.Domain.pdb
+C:\Users\trien\OneDrive\Desktop\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\EntityFramework.dll
+C:\Users\trien\OneDrive\Desktop\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\trien\OneDrive\Desktop\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Helpers.dll
+C:\Users\trien\OneDrive\Desktop\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\trien\OneDrive\Desktop\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Razor.dll
+C:\Users\trien\OneDrive\Desktop\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\trien\OneDrive\Desktop\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.dll
+C:\Users\trien\OneDrive\Desktop\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\trien\OneDrive\Desktop\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\EntityFramework.xml
+C:\Users\trien\OneDrive\Desktop\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Helpers.xml
+C:\Users\trien\OneDrive\Desktop\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\trien\OneDrive\Desktop\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Razor.xml
+C:\Users\trien\OneDrive\Desktop\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.xml
+C:\Users\trien\OneDrive\Desktop\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\trien\OneDrive\Desktop\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\trien\OneDrive\Desktop\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\obj\Debug\BanDongHo.Domain.csproj.AssemblyReference.cache
+C:\Users\trien\OneDrive\Desktop\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\obj\Debug\BanDongHo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\trien\OneDrive\Desktop\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\obj\Debug\BanDongHo.Domain.csproj.CopyComplete
+C:\Users\trien\OneDrive\Desktop\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\obj\Debug\BanDongHo.Domain.dll
+C:\Users\trien\OneDrive\Desktop\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\obj\Debug\BanDongHo.Domain.pdb
+D:\BanDongHo1 (1)\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\BanDongHo.Domain.dll.config
+D:\BanDongHo1 (1)\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\BanDongHo.Domain.dll
+D:\BanDongHo1 (1)\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\BanDongHo.Domain.pdb
+D:\BanDongHo1 (1)\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\EntityFramework.dll
+D:\BanDongHo1 (1)\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\BanDongHo1 (1)\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Helpers.dll
+D:\BanDongHo1 (1)\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Mvc.dll
+D:\BanDongHo1 (1)\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Razor.dll
+D:\BanDongHo1 (1)\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\BanDongHo1 (1)\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.dll
+D:\BanDongHo1 (1)\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+D:\BanDongHo1 (1)\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\EntityFramework.xml
+D:\BanDongHo1 (1)\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Helpers.xml
+D:\BanDongHo1 (1)\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Mvc.xml
+D:\BanDongHo1 (1)\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Razor.xml
+D:\BanDongHo1 (1)\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.xml
+D:\BanDongHo1 (1)\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\BanDongHo1 (1)\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+D:\BanDongHo1 (1)\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\obj\Debug\BanDongHo.Domain.csproj.AssemblyReference.cache
+D:\BanDongHo1 (1)\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\obj\Debug\BanDongHo.Domain.csproj.CoreCompileInputs.cache
+D:\BanDongHo1 (1)\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\obj\Debug\BanDongHo.Domain.csproj.CopyComplete
+D:\BanDongHo1 (1)\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\obj\Debug\BanDongHo.Domain.dll
+D:\BanDongHo1 (1)\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\obj\Debug\BanDongHo.Domain.pdb
+C:\Users\trien\OneDrive\Desktop\BanDongHo1 (1)\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\BanDongHo.Domain.dll.config
+C:\Users\trien\OneDrive\Desktop\BanDongHo1 (1)\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\BanDongHo.Domain.dll
+C:\Users\trien\OneDrive\Desktop\BanDongHo1 (1)\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\BanDongHo.Domain.pdb
+C:\Users\trien\OneDrive\Desktop\BanDongHo1 (1)\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\EntityFramework.dll
+C:\Users\trien\OneDrive\Desktop\BanDongHo1 (1)\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\trien\OneDrive\Desktop\BanDongHo1 (1)\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Helpers.dll
+C:\Users\trien\OneDrive\Desktop\BanDongHo1 (1)\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\trien\OneDrive\Desktop\BanDongHo1 (1)\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Razor.dll
+C:\Users\trien\OneDrive\Desktop\BanDongHo1 (1)\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\trien\OneDrive\Desktop\BanDongHo1 (1)\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.dll
+C:\Users\trien\OneDrive\Desktop\BanDongHo1 (1)\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\trien\OneDrive\Desktop\BanDongHo1 (1)\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\EntityFramework.xml
+C:\Users\trien\OneDrive\Desktop\BanDongHo1 (1)\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Helpers.xml
+C:\Users\trien\OneDrive\Desktop\BanDongHo1 (1)\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\trien\OneDrive\Desktop\BanDongHo1 (1)\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Razor.xml
+C:\Users\trien\OneDrive\Desktop\BanDongHo1 (1)\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.xml
+C:\Users\trien\OneDrive\Desktop\BanDongHo1 (1)\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\trien\OneDrive\Desktop\BanDongHo1 (1)\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\trien\OneDrive\Desktop\BanDongHo1 (1)\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\obj\Debug\BanDongHo.Domain.csproj.AssemblyReference.cache
+C:\Users\trien\OneDrive\Desktop\BanDongHo1 (1)\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\obj\Debug\BanDongHo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\trien\OneDrive\Desktop\BanDongHo1 (1)\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\obj\Debug\BanDongHo.Domain.csproj.CopyComplete
+C:\Users\trien\OneDrive\Desktop\BanDongHo1 (1)\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\obj\Debug\BanDongHo.Domain.dll
+C:\Users\trien\OneDrive\Desktop\BanDongHo1 (1)\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\obj\Debug\BanDongHo.Domain.pdb
+E:\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\BanDongHo.Domain.dll.config
+E:\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\BanDongHo.Domain.dll
+E:\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\BanDongHo.Domain.pdb
+E:\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\EntityFramework.dll
+E:\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Helpers.dll
+E:\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Mvc.dll
+E:\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Razor.dll
+E:\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.dll
+E:\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+E:\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\EntityFramework.xml
+E:\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Helpers.xml
+E:\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Mvc.xml
+E:\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Razor.xml
+E:\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.xml
+E:\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+E:\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\obj\Debug\BanDongHo.Domain.csproj.AssemblyReference.cache
+E:\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\obj\Debug\BanDongHo.Domain.csproj.CoreCompileInputs.cache
+E:\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\obj\Debug\BanDongHo.Domain.csproj.CopyComplete
+E:\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\obj\Debug\BanDongHo.Domain.dll
+E:\BanDongHo1\BanDongHo\BanDongHosln\BanDongHo.Domain\obj\Debug\BanDongHo.Domain.pdb
+C:\Users\thien\OneDrive\Máy tính\BanDongHo-20240710T001733Z-001\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\BanDongHo.Domain.dll.config
+C:\Users\thien\OneDrive\Máy tính\BanDongHo-20240710T001733Z-001\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\BanDongHo.Domain.dll
+C:\Users\thien\OneDrive\Máy tính\BanDongHo-20240710T001733Z-001\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\BanDongHo.Domain.pdb
+C:\Users\thien\OneDrive\Máy tính\BanDongHo-20240710T001733Z-001\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\EntityFramework.dll
+C:\Users\thien\OneDrive\Máy tính\BanDongHo-20240710T001733Z-001\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\thien\OneDrive\Máy tính\BanDongHo-20240710T001733Z-001\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Helpers.dll
+C:\Users\thien\OneDrive\Máy tính\BanDongHo-20240710T001733Z-001\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\thien\OneDrive\Máy tính\BanDongHo-20240710T001733Z-001\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Razor.dll
+C:\Users\thien\OneDrive\Máy tính\BanDongHo-20240710T001733Z-001\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\thien\OneDrive\Máy tính\BanDongHo-20240710T001733Z-001\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.dll
+C:\Users\thien\OneDrive\Máy tính\BanDongHo-20240710T001733Z-001\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\thien\OneDrive\Máy tính\BanDongHo-20240710T001733Z-001\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\EntityFramework.xml
+C:\Users\thien\OneDrive\Máy tính\BanDongHo-20240710T001733Z-001\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Helpers.xml
+C:\Users\thien\OneDrive\Máy tính\BanDongHo-20240710T001733Z-001\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\thien\OneDrive\Máy tính\BanDongHo-20240710T001733Z-001\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.Razor.xml
+C:\Users\thien\OneDrive\Máy tính\BanDongHo-20240710T001733Z-001\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.xml
+C:\Users\thien\OneDrive\Máy tính\BanDongHo-20240710T001733Z-001\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\thien\OneDrive\Máy tính\BanDongHo-20240710T001733Z-001\BanDongHo\BanDongHosln\BanDongHo.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\thien\OneDrive\Máy tính\BanDongHo-20240710T001733Z-001\BanDongHo\BanDongHosln\BanDongHo.Domain\obj\Debug\BanDongHo.Domain.csproj.AssemblyReference.cache
+C:\Users\thien\OneDrive\Máy tính\BanDongHo-20240710T001733Z-001\BanDongHo\BanDongHosln\BanDongHo.Domain\obj\Debug\BanDongHo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\thien\OneDrive\Máy tính\BanDongHo-20240710T001733Z-001\BanDongHo\BanDongHosln\BanDongHo.Domain\obj\Debug\BanDongH.0BF053DA.Up2Date
+C:\Users\thien\OneDrive\Máy tính\BanDongHo-20240710T001733Z-001\BanDongHo\BanDongHosln\BanDongHo.Domain\obj\Debug\BanDongHo.Domain.dll
+C:\Users\thien\OneDrive\Máy tính\BanDongHo-20240710T001733Z-001\BanDongHo\BanDongHosln\BanDongHo.Domain\obj\Debug\BanDongHo.Domain.pdb
+C:\Users\thien\OneDrive\Máy tính\CNPM\CNPM\CNPM\BanDongHo.Domain\bin\Debug\BanDongHo.Domain.dll.config
+C:\Users\thien\OneDrive\Máy tính\CNPM\CNPM\CNPM\BanDongHo.Domain\bin\Debug\BanDongHo.Domain.dll
+C:\Users\thien\OneDrive\Máy tính\CNPM\CNPM\CNPM\BanDongHo.Domain\bin\Debug\BanDongHo.Domain.pdb
+C:\Users\thien\OneDrive\Máy tính\CNPM\CNPM\CNPM\BanDongHo.Domain\bin\Debug\EntityFramework.dll
+C:\Users\thien\OneDrive\Máy tính\CNPM\CNPM\CNPM\BanDongHo.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\thien\OneDrive\Máy tính\CNPM\CNPM\CNPM\BanDongHo.Domain\bin\Debug\System.Web.Helpers.dll
+C:\Users\thien\OneDrive\Máy tính\CNPM\CNPM\CNPM\BanDongHo.Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\thien\OneDrive\Máy tính\CNPM\CNPM\CNPM\BanDongHo.Domain\bin\Debug\System.Web.Razor.dll
+C:\Users\thien\OneDrive\Máy tính\CNPM\CNPM\CNPM\BanDongHo.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\thien\OneDrive\Máy tính\CNPM\CNPM\CNPM\BanDongHo.Domain\bin\Debug\System.Web.WebPages.dll
+C:\Users\thien\OneDrive\Máy tính\CNPM\CNPM\CNPM\BanDongHo.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\thien\OneDrive\Máy tính\CNPM\CNPM\CNPM\BanDongHo.Domain\bin\Debug\EntityFramework.xml
+C:\Users\thien\OneDrive\Máy tính\CNPM\CNPM\CNPM\BanDongHo.Domain\bin\Debug\System.Web.Helpers.xml
+C:\Users\thien\OneDrive\Máy tính\CNPM\CNPM\CNPM\BanDongHo.Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\thien\OneDrive\Máy tính\CNPM\CNPM\CNPM\BanDongHo.Domain\bin\Debug\System.Web.Razor.xml
+C:\Users\thien\OneDrive\Máy tính\CNPM\CNPM\CNPM\BanDongHo.Domain\bin\Debug\System.Web.WebPages.xml
+C:\Users\thien\OneDrive\Máy tính\CNPM\CNPM\CNPM\BanDongHo.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\thien\OneDrive\Máy tính\CNPM\CNPM\CNPM\BanDongHo.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\thien\OneDrive\Máy tính\CNPM\CNPM\CNPM\BanDongHo.Domain\obj\Debug\BanDongHo.Domain.csproj.AssemblyReference.cache
+C:\Users\thien\OneDrive\Máy tính\CNPM\CNPM\CNPM\BanDongHo.Domain\obj\Debug\BanDongHo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\thien\OneDrive\Máy tính\CNPM\CNPM\CNPM\BanDongHo.Domain\obj\Debug\BanDongH.0BF053DA.Up2Date
+C:\Users\thien\OneDrive\Máy tính\CNPM\CNPM\CNPM\BanDongHo.Domain\obj\Debug\BanDongHo.Domain.dll
+C:\Users\thien\OneDrive\Máy tính\CNPM\CNPM\CNPM\BanDongHo.Domain\obj\Debug\BanDongHo.Domain.pdb
+C:\Users\thien\OneDrive\Máy tính\CNPM\CNPM\CNPM\BanDongHo.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\thien\OneDrive\Máy tính\CNPM\CNPM\CNPM\BanDongHo.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\thien\OneDrive\Máy tính\CNPM\CNPM\CNPM\BanDongHo.Domain\bin\Debug\Newtonsoft.Json.dll
+C:\Users\thien\OneDrive\Máy tính\CNPM\CNPM\CNPM\BanDongHo.Domain\bin\Debug\PayPal.dll
+C:\Users\thien\OneDrive\Máy tính\CNPM\CNPM\CNPM\BanDongHo.Domain\bin\Debug\Newtonsoft.Json.xml
+C:\Users\thien\OneDrive\Máy tính\CNPM\CNPM\CNPM\BanDongHo.Domain\bin\Debug\PayPal.xml
+D:\huflit\02\hk3\CNPM\CNPM\CNPM\BanDongHo.Domain\bin\Debug\BanDongHo.Domain.dll.config
+D:\huflit\02\hk3\CNPM\CNPM\CNPM\BanDongHo.Domain\bin\Debug\BanDongHo.Domain.dll
+D:\huflit\02\hk3\CNPM\CNPM\CNPM\BanDongHo.Domain\bin\Debug\BanDongHo.Domain.pdb
+D:\huflit\02\hk3\CNPM\CNPM\CNPM\BanDongHo.Domain\bin\Debug\EntityFramework.dll
+D:\huflit\02\hk3\CNPM\CNPM\CNPM\BanDongHo.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\huflit\02\hk3\CNPM\CNPM\CNPM\BanDongHo.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\huflit\02\hk3\CNPM\CNPM\CNPM\BanDongHo.Domain\bin\Debug\Newtonsoft.Json.dll
+D:\huflit\02\hk3\CNPM\CNPM\CNPM\BanDongHo.Domain\bin\Debug\PayPal.dll
+D:\huflit\02\hk3\CNPM\CNPM\CNPM\BanDongHo.Domain\bin\Debug\System.Web.Helpers.dll
+D:\huflit\02\hk3\CNPM\CNPM\CNPM\BanDongHo.Domain\bin\Debug\System.Web.Mvc.dll
+D:\huflit\02\hk3\CNPM\CNPM\CNPM\BanDongHo.Domain\bin\Debug\System.Web.Razor.dll
+D:\huflit\02\hk3\CNPM\CNPM\CNPM\BanDongHo.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\huflit\02\hk3\CNPM\CNPM\CNPM\BanDongHo.Domain\bin\Debug\System.Web.WebPages.dll
+D:\huflit\02\hk3\CNPM\CNPM\CNPM\BanDongHo.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+D:\huflit\02\hk3\CNPM\CNPM\CNPM\BanDongHo.Domain\bin\Debug\EntityFramework.xml
+D:\huflit\02\hk3\CNPM\CNPM\CNPM\BanDongHo.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\huflit\02\hk3\CNPM\CNPM\CNPM\BanDongHo.Domain\bin\Debug\Newtonsoft.Json.xml
+D:\huflit\02\hk3\CNPM\CNPM\CNPM\BanDongHo.Domain\bin\Debug\PayPal.xml
+D:\huflit\02\hk3\CNPM\CNPM\CNPM\BanDongHo.Domain\bin\Debug\System.Web.Helpers.xml
+D:\huflit\02\hk3\CNPM\CNPM\CNPM\BanDongHo.Domain\bin\Debug\System.Web.Mvc.xml
+D:\huflit\02\hk3\CNPM\CNPM\CNPM\BanDongHo.Domain\bin\Debug\System.Web.Razor.xml
+D:\huflit\02\hk3\CNPM\CNPM\CNPM\BanDongHo.Domain\bin\Debug\System.Web.WebPages.xml
+D:\huflit\02\hk3\CNPM\CNPM\CNPM\BanDongHo.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\huflit\02\hk3\CNPM\CNPM\CNPM\BanDongHo.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+D:\huflit\02\hk3\CNPM\CNPM\CNPM\BanDongHo.Domain\obj\Debug\BanDongHo.Domain.csproj.AssemblyReference.cache
+D:\huflit\02\hk3\CNPM\CNPM\CNPM\BanDongHo.Domain\obj\Debug\BanDongHo.Domain.csproj.CoreCompileInputs.cache
+D:\huflit\02\hk3\CNPM\CNPM\CNPM\BanDongHo.Domain\obj\Debug\BanDongH.0BF053DA.Up2Date
+D:\huflit\02\hk3\CNPM\CNPM\CNPM\BanDongHo.Domain\obj\Debug\BanDongHo.Domain.dll
+D:\huflit\02\hk3\CNPM\CNPM\CNPM\BanDongHo.Domain\obj\Debug\BanDongHo.Domain.pdb
+D:\ĐBCL_PM\Do_An\CNPM\BanDongHo.Domain\bin\Debug\BanDongHo.Domain.dll.config
+D:\ĐBCL_PM\Do_An\CNPM\BanDongHo.Domain\bin\Debug\BanDongHo.Domain.dll
+D:\ĐBCL_PM\Do_An\CNPM\BanDongHo.Domain\bin\Debug\BanDongHo.Domain.pdb
+D:\ĐBCL_PM\Do_An\CNPM\BanDongHo.Domain\bin\Debug\EntityFramework.dll
+D:\ĐBCL_PM\Do_An\CNPM\BanDongHo.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\ĐBCL_PM\Do_An\CNPM\BanDongHo.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\ĐBCL_PM\Do_An\CNPM\BanDongHo.Domain\bin\Debug\Newtonsoft.Json.dll
+D:\ĐBCL_PM\Do_An\CNPM\BanDongHo.Domain\bin\Debug\PayPal.dll
+D:\ĐBCL_PM\Do_An\CNPM\BanDongHo.Domain\bin\Debug\System.Web.Helpers.dll
+D:\ĐBCL_PM\Do_An\CNPM\BanDongHo.Domain\bin\Debug\System.Web.Mvc.dll
+D:\ĐBCL_PM\Do_An\CNPM\BanDongHo.Domain\bin\Debug\System.Web.Razor.dll
+D:\ĐBCL_PM\Do_An\CNPM\BanDongHo.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\ĐBCL_PM\Do_An\CNPM\BanDongHo.Domain\bin\Debug\System.Web.WebPages.dll
+D:\ĐBCL_PM\Do_An\CNPM\BanDongHo.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+D:\ĐBCL_PM\Do_An\CNPM\BanDongHo.Domain\bin\Debug\EntityFramework.xml
+D:\ĐBCL_PM\Do_An\CNPM\BanDongHo.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\ĐBCL_PM\Do_An\CNPM\BanDongHo.Domain\bin\Debug\Newtonsoft.Json.xml
+D:\ĐBCL_PM\Do_An\CNPM\BanDongHo.Domain\bin\Debug\PayPal.xml
+D:\ĐBCL_PM\Do_An\CNPM\BanDongHo.Domain\bin\Debug\System.Web.Helpers.xml
+D:\ĐBCL_PM\Do_An\CNPM\BanDongHo.Domain\bin\Debug\System.Web.Mvc.xml
+D:\ĐBCL_PM\Do_An\CNPM\BanDongHo.Domain\bin\Debug\System.Web.Razor.xml
+D:\ĐBCL_PM\Do_An\CNPM\BanDongHo.Domain\bin\Debug\System.Web.WebPages.xml
+D:\ĐBCL_PM\Do_An\CNPM\BanDongHo.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\ĐBCL_PM\Do_An\CNPM\BanDongHo.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+D:\ĐBCL_PM\Do_An\CNPM\BanDongHo.Domain\obj\Debug\BanDongHo.Domain.csproj.AssemblyReference.cache
+D:\ĐBCL_PM\Do_An\CNPM\BanDongHo.Domain\obj\Debug\BanDongHo.Domain.csproj.CoreCompileInputs.cache
+D:\ĐBCL_PM\Do_An\CNPM\BanDongHo.Domain\obj\Debug\BanDongH.0BF053DA.Up2Date
+D:\ĐBCL_PM\Do_An\CNPM\BanDongHo.Domain\obj\Debug\BanDongHo.Domain.dll
+D:\ĐBCL_PM\Do_An\CNPM\BanDongHo.Domain\obj\Debug\BanDongHo.Domain.pdb

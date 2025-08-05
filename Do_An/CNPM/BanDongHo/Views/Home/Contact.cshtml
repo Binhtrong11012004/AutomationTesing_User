@@ -1,0 +1,74 @@
+﻿﻿@model BanDongHo.Models.ViewModel.ContactViewModel
+@{
+    ViewBag.Title = "Contact";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    <style>
+        .validation {
+            color: red;
+        }
+    </style>
+}
+
+<!--start-breadcrumbs-->
+<div class="breadcrumbs">
+    <div class="container">
+        <div class="breadcrumbs-main">
+            <ol class="breadcrumb">
+                <li><a href="~/Home/Index">Trang chủ</a></li>
+                <li class="active">Liên hệ</li>
+            </ol>
+        </div>
+    </div>
+</div>
+<!--end-breadcrumbs-->
+<!--contact-start-->
+<div class="contact">
+    <div class="container">
+        <div class="contact-top heading">
+            <h2>LIÊN HỆ</h2>
+        </div>
+        <div class="contact-text">
+            <div class="col-md-3 contact-left">
+                <div class="address">
+                    <h5>Địa chỉ</h5>
+                    <p>
+                        Shop,
+                        12-11-2023.
+                    </p>
+                </div>
+                <div class="address">
+                    <h5>Liên hệ</h5>
+                    <p>
+                        Tel:(+84)123 456 789,
+                        <br />
+                        Email: <a href="mailto:example@email.com">contact@example.com</a>
+                    </p>
+                </div>
+            </div>
+            <div class="col-md-9 contact-right">
+                <form action="Contact" method="post">
+                    @Html.ValidationMessageFor(m => m.Phone, "", new { @class = "validation" })
+                    <br />
+                    @Html.ValidationMessageFor(m => m.Email, "", new { @class = "validation" })
+                    <br />
+                    @Html.TextBoxFor(m => m.Name, new { placeholder = "Họ và tên", required = "" })
+                    @Html.TextBoxFor(m => m.Phone, new { placeholder = "Số điện thoai", required = "" })
+                    <br /><br />
+                    @Html.TextBoxFor(m => m.Email, new { placeholder = "Email", required = "" })
+                    @Html.ValidationMessageFor(m => m.Content)
+                    @Html.TextAreaFor(m => m.Content, new { placeholder = "Tin nhắn", required = "" })
+                    <div class="submit-btn">
+                        <input type="submit" value="Hoàn tất" name="btn-lienhe">
+                    </div>
+                </form>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+</div>
+<!--contact-end-->
+<!--map-start-->
+<div class="map">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.4654407452736!2d106.66705902364231!3d10.775619452595267!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752edb765b5c25%3A0x9a3519bdad5a85a3!2sHCMC%20University%20of%20Foreign%20Languages%20-%20Information%20Technology%20(HUFLIT)!5e0!3m2!1sen!2s!4v1698918086638!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+<!--map-end-->

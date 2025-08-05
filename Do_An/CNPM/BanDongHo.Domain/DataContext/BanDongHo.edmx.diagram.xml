@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="d68eca002d774fc08068a106017cb249" Name="Diagram1" ZoomLevel="94">
+        <EntityTypeShape EntityType="BANDONGHOModel.CHITIETDONHANG" Width="1.5" PointX="6.125" PointY="1.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BANDONGHOModel.DONHANG" Width="1.5" PointX="9.25" PointY="3" IsExpanded="true" />
+        <EntityTypeShape EntityType="BANDONGHOModel.KHACHHANG" Width="1.5" PointX="6.625" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BANDONGHOModel.LOAISANPHAM" Width="1.5" PointX="0.75" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="BANDONGHOModel.LOAITK" Width="1.5" PointX="0.5" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BANDONGHOModel.TAIKHOAN" Width="1.5" PointX="4" PointY="6.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="BANDONGHOModel.THUONGHIEU" Width="1.5" PointX="0.75" PointY="1.125" IsExpanded="true" />
+        <AssociationConnector Association="BANDONGHOModel.FK_CTDH_DH" ManuallyRouted="false" />
+        <AssociationConnector Association="BANDONGHOModel.FK_DH_KH" ManuallyRouted="false" />
+        <AssociationConnector Association="BANDONGHOModel.FK_KH_TK" ManuallyRouted="false" />
+        <AssociationConnector Association="BANDONGHOModel.FK_TK_LTK" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="BANDONGHOModel.SANPHAM" Width="1.5" PointX="3" PointY="1.75" />
+        <AssociationConnector Association="BANDONGHOModel.FK_CTDH_SP" />
+        <AssociationConnector Association="BANDONGHOModel.FK_SP_LSP" />
+        <AssociationConnector Association="BANDONGHOModel.FK_SP_TH" />
+        </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

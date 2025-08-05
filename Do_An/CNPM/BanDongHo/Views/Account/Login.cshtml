@@ -1,0 +1,61 @@
+﻿@model BanDongHo.Models.ViewModel.LoginViewModel
+
+@{
+    ViewBag.Title = "Login";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    .center {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .inline-elements {
+        display: inline;
+    }
+</style>
+
+
+<!--account-starts-->
+<div class="account">
+    <div class="container">
+        <form method="post" action="~/dang-nhap">
+            <div class="account-top heading">
+                <img src="~/images/logo.png" alt="Logo" class="logo" width="200" height="200">
+                <h2>TÀI KHOẢN</h2>
+            </div>
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            @Html.AntiForgeryToken()
+        <div class="center">
+            <div class="">
+                <div class=" account-left">
+                    <div class="center-block">
+                        <div>
+                            <p style="color:#f00">
+                                @ViewBag.MessageLogin
+                            </p>
+                        </div>
+                        @Html.ValidationMessageFor(model => model.UserName, "", new { @class = "text-danger", @style = "color: red" })
+                        @Html.ValidationMessageFor(model => model.PassWord, "", new { @class = "text-danger", @style = "color: red" })
+                        <div class="account-bottom">
+                            <input name="UserName" placeholder="Tài khoản" type="text" tabindex="5" required value="@Model.UserName" class="form-control mb-3">
+                            <input name="PassWord" placeholder="Mật khẩu" type="password" tabindex="6" required value="@Model.PassWord" class="form-control mb-3">
+                            <br />
+                            <input name="RememberMe" type="checkbox" tabindex="7" value="@Model.RememberMe">
+                            <span style="font-family: 'Lato-Regular'; text-align: center; color: #666; font-weight: 500; font-size: 14px; margin-left: 5px">Remember Me?</span>
+                            <div class="address">
+                                <a class="forgot" href="#">Quên mật khẩu?</a>
+                                <input type="submit" value="Đăng nhập">
+                                <br />
+                                <p class="inline-elements">Người dùng mới? <a href="~/dang-ky" class="inline-elements">Tạo một tài khoản</a></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </form>
+    </div>
+</div>
+<!--account-end-->

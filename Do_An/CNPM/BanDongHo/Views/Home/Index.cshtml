@@ -1,0 +1,274 @@
+﻿@model BanDongHo.Models.ViewModel.HomePageViewModel
+
+@{
+    ViewBag.Title = "Home Page";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<style>
+    #top {
+        margin-bottom: 50px;
+    }
+</style>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f4f4f4;
+        margin: 0;
+        padding: 0;
+    }
+
+    .container {
+        width: 80%;
+        margin: auto;
+        overflow: hidden;
+    }
+
+    h2 {
+        text-align: center; 
+        color: #333;
+    }
+
+    .video-section {
+        background-color: #00A6D6;
+        color: white;
+        padding: 20px;
+        text-align: center;
+    }
+
+    .video-container {
+        width: 80%;
+        height: auto;
+        margin: 0 auto;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+        .video-container video {
+            width: 100%;
+            max-height: 100%;
+            margin-bottom: 20px;
+        }
+
+    .favorite-products, .book-variety, .author-dialogue, .staff {
+        background-color: #fff;
+        margin: 20px 0;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .carousel {
+        position: relative;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        overflow: hidden;
+    }
+
+    .carousel-images {
+        overflow: hidden;
+        width: 60%;
+    }
+
+    .carousel-track {
+        display: flex;
+        transition: transform 0.5s ease;
+    }
+
+        .carousel-track img {
+            width: 33.3333%;
+        }
+
+    .carousel-button {
+        background-color: #fff;
+        color: #333;
+        border: none;
+        padding: 10px;
+        cursor: pointer;
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        font-size: 18px;
+        border-radius: 50%;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+        .carousel-button.prev {
+            left: 0;
+        }
+
+        .carousel-button.next {
+            right: 0;
+        }
+
+    .book-variety .content, .author-dialogue .content, .staff .content {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        position: relative;
+        padding: 20px;
+    }
+
+        .book-variety .content img, .author-dialogue .content img, .staff .content img {
+            width: 40%;
+            border-radius: 8px;
+        }
+
+    .book-variety .text, .author-dialogue .text, .staff .text {
+        width: 55%;
+    }
+
+        .book-variety .text h2, .author-dialogue .text h2, .staff .text h2 {
+            text-align: left;
+            color: #333;
+            margin-bottom: 10px;
+        }
+
+        .book-variety .text p, .author-dialogue .text p, .staff .text p {
+            font-size: 16px;
+            line-height: 1.5;
+            color: #555;
+        }
+</style>
+
+<!--banner-starts-->
+<div class="bnr" id="home">
+    <div id="top" class="callbacks_container">
+        <ul class="rslides" id="slider4">
+            <li>
+                <img src="~/images/bnr-001.jpg" alt="" />
+            </li>
+            <li>
+                <img src="~/images/bnr-002.jpg" alt="" />
+            </li>
+            <li>
+                <img src="~/images/bnr-003.jpg" alt="" />
+            </li>
+        </ul>
+    </div>
+    <div class="clearfix"> </div>
+</div>
+<!--banner-ends-->
+<!---->
+<div class="container">
+    <section class="video-section">
+        <h2>WELCOME TO NOVELTY</h2>
+        <p>Find your next favorite book today</p>
+
+        <div class="video-container">
+            
+                <iframe width="887" height="499" src="https://www.youtube.com/embed/wktBd7OmYHs?si=eK7e49-shCUEikHi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            
+        </div>
+        <p>Nhà sách Novelty là một điểm đến lý tưởng dành cho những người yêu sách và đam mê tri thức. Với một không gian thoáng đãng, hiện đại và được thiết kế tinh tế, nhà sách mang đến cho khách hàng trải nghiệm mua sắm thoải mái và dễ chịu.</p>
+    </section>
+
+    <section class="favorite-products">
+        <h2>DANH SÁCH SẢN PHẨM YÊU THÍCH</h2>
+        <div class="carousel">
+            <button class="carousel-button prev">&lt;</button>
+            <div class="carousel-images">
+                <div class="carousel-track">
+                    <img src="~/images/pic1.jpg" alt="Product 1">
+                    <img src="~/images/pic01.jpg" alt="Product 2">
+                    <img src="~/images/pic1.jpg" alt="Product 3">
+                    <img src="~/images/pic01.jpg" alt="Product 4">
+                    <img src="~/images/pic1.jpg" alt="Product 5">
+                    <img src="~/images/pic01.jpg" alt="Product 6">
+                    <img src="~/images/pic1.jpg" alt="Product 7">
+                    <img src="~/images/pic01.jpg" alt="Product 8">
+                    <img src="~/images/pic1.jpg" alt="Product 9">
+                </div>
+            </div>
+            <button class="carousel-button next">&gt;</button>
+        </div>
+    </section>
+
+    <section class="book-variety">
+        <div class="content">
+            <div class="text">
+                <h2>ĐA DẠNG KHO SÁCH</h2>
+                <p>Novelty tự hào cung cấp một bộ tàng sách phong phú và đa dạng, đáp ứng mọi nhu cầu và sở thích của độc giả. Bạn có thể dễ dàng tìm thấy những tác phẩm văn học kinh điển và hiện đại, sách khoa học với những phát hiện mới nhất, các cuốn sách lịch sử chi tiết và hấp dẫn, cùng những tác phẩm nghệ thuật tinh tế và đầy cảm hứng. Bên cạnh đó, những ai yêu thích sách ngoại văn cũng sẽ không thất vọng khi khám phá bộ sưu tập các đầu sách tiếng Anh và nhiều ngôn ngữ khác, giúp mở rộng tri thức và kỹ năng ngoại ngữ. Novelty luôn cập nhật những tựa sách mới nhất và hot nhất, đảm bảo mang đến cho khách hàng những trải nghiệm đọc sách tuyệt vời và đa dạng.</p>
+            </div>
+            <img src="~/images/pic01.jpg" alt="Books">
+        </div>
+    </section>
+
+    <section class="author-dialogue">
+        <div class="content">
+            <img src="~/images/pic02.jpg" alt="Author Dialogue">
+            <div class="text">
+                <h2>ĐỐI THOẠI TÁC GIẢ</h2>
+                <p>Không chỉ dừng lại ở việc bán sách, Novelty còn tổ chức các sự kiện giao lưu với tác giả, hội thảo và các hoạt động văn hóa, góp phần tạo nên một cộng đồng đọc sách sôi động và gắn kết. Đội ngũ nhân viên thân thiện, chuyên nghiệp và am hiểu về sách luôn sẵn sàng tư vấn và hỗ trợ khách hàng một cách tận tình.</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="staff">
+        <div class="content">
+            <div class="text">
+                <h2>ĐỘI NGŨ NHÂN VIÊN</h2>
+                <p>Đội ngũ nhân viên thân thiện, chuyên nghiệp luôn sẵn sàng tư vấn và hỗ trợ khách hàng. Ngoài ra, Novelty còn có khu vực cà phê sách, nơi bạn có thể thưởng thức cà phê và đọc sách trong không gian yên tĩnh, ấm cúng. Hãy đến với nhà sách Novelty để khám phá thế giới sách đa dạng và truyền cảm hứng học hỏi mỗi ngày.</p>
+            </div>
+            <img src="~/images/pic03.jpg" alt="Staff">
+        </div>
+    </section>
+</div>
+<!---->
+<!--Slider-Starts-Here-->
+<script src="~/Scripts/js/responsiveslides.min.js"></script>
+<script>
+
+    $(function () {
+        // Slideshow 4
+        $("#slider4").responsiveSlides({
+            auto: true,
+            pager: true,
+            nav: true,
+            speed: 500,
+            namespace: "callbacks",
+            before: function () {
+                $('.events').append("<li>before event fired.</li>");
+            },
+            after: function () {
+                $('.events').append("<li>after event fired.</li>");
+            }
+        });
+
+    });
+</script>
+<!--End-slider-script-->
+<!--product-starts-->
+<!--product-end-->
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        const track = document.querySelector('.carousel-track');
+        const prevButton = document.querySelector('.carousel-button.prev');
+        const nextButton = document.querySelector('.carousel-button.next');
+        const images = document.querySelectorAll('.carousel-track img');
+        const imageCount = images.length;
+        const visibleImages = 3;
+        let currentIndex = 0;
+
+        function updateCarousel() {
+            const offset = -currentIndex * 100 / visibleImages;
+            track.style.transform = `translateX(${offset}%)`;
+        }
+
+        function showPrevImage() {
+            currentIndex = (currentIndex > 0) ? currentIndex - 1 : imageCount - visibleImages;
+            updateCarousel();
+        }
+
+        function showNextImage() {
+            currentIndex = (currentIndex < imageCount - visibleImages) ? currentIndex + 1 : 0;
+            updateCarousel();
+        }
+
+        prevButton.addEventListener('click', showPrevImage);
+        nextButton.addEventListener('click', showNextImage);
+
+        updateCarousel();
+    });
+</script>

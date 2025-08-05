@@ -1,0 +1,45 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_layout.cshtml";
+}
+
+<div id="page-wrapper">
+    <h2>Thống kê Doanh Thu</h2>
+
+    <form id="doanhThuForm">
+        <label for="startDate">Từ ngày:</label>
+        <input type="date" id="startDate" name="startDate" required />
+
+        <label for="endDate">Đến ngày:</label>
+        <input type="date" id="endDate" name="endDate" required />
+
+        <button type="submit">Tính toán</button>
+    </form>
+
+    <p id="result"></p>
+
+    <script src="~/Scripts/js/jquery-1.11.0.min.js"></script>
+    <script>
+    $(document).ready(function () {
+        $('#doanhThuForm').submit(function (e) {
+            e.preventDefault();
+
+            var startDate = $('#startDate').val();
+            var endDate = $('#endDate').val();
+
+            $.ajax({
+                url: '@Url.Action("GetDoanhThu", "DoanhThu")',
+                type: 'POST',
+                data: { startDate: startDate, endDate: endDate },
+                success: function (data) {
+                    $('#result').text('Doanh thu từ ' + startDate + ' đến ' + endDate + ': ' + data.doanhThu + ' VND');
+                },
+                error: function () {
+                    $('#result').text('Có lỗi xảy ra.');
+                }
+            });
+        });
+    });
+    </script>
+</div>

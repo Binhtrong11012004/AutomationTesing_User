@@ -1,0 +1,39 @@
+﻿@model List<BanDongHo.Models.ViewModel.OrderHistoryViewModel>
+
+@{
+    ViewBag.Title = "Lịch sử đơn hàng";
+}
+
+<h2>Lịch sử đơn hàng</h2>
+
+
+<table class="table table-striped" cellspacing="0" cellpadding="10">
+    <thead>
+        <tr>
+            <th style="width: 15%;">Mã đơn hàng</th>
+            <th style="width: 15%;">Mã khách hàng</th>
+            <th style="width: 25%;">Địa chỉ giao</th>
+            <th style="width: 15%;">Ngày đặt</th>
+            <th style="width: 15%;">Ngày giao</th>
+            <th style="width: 10%;">Tổng tiền</th>
+            <th style="width: 10%;">Trạng thái</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var order in Model)
+        {
+            <tr>
+                <td>@order.MADH</td>
+                <td>@order.MAKH</td>
+                <td>@order.DIACHIGIAO</td>
+                <td>@order.NGAYDAT</td>
+                <td>@order.NGAYGIAO</td>
+                <td>@order.TONGTIEN</td>
+                <td>@order.TRANGTHAI</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<!--<td>.ToString("dd/MM/yyyy")</td>-->
+<!--<td>.ToString("dd/MM/yyyy")</td>-->
